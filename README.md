@@ -1,10 +1,10 @@
 ### Hi there 👋 I´m Eliana :atom: :atom: :atom:
 :octocat:
 ### SKILLS
-###- Javascript
-###- React
-###- PHP
-###- Salesforce
+### Javascript
+### React
+### PHP
+### Salesforce
 
 
 
