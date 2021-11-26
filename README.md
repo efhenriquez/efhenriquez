@@ -1,7 +1,11 @@
 ### Hi there 👋 I´m Eliana :atom: :atom: :atom:
 :octocat:
 ### SKILLS
-![Javascript]https://img.shields.io/badge/Javascript
+###- Javascript
+###- React
+###- PHP
+###- Salesforce
+
 
 
 
